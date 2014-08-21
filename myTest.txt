@@ -1,1 +1,1 @@
-我增加了一个test文件  only commit ,not need to push if want to tongbu  test git status   test git commit -a -m   not push cry   test git status   test revert HEAD
+我增加了一个test文件  only commit ,not need to push if want to tongbu  test git status   test git commit -a -m   not push cry   test git status  test commit --amend
