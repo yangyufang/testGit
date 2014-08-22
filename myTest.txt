@@ -5,3 +5,5 @@ i modified in github.com    i modified in local git   i modified in git in mytes
 
 test git fetch origin   test git fetch origin  again.  trst git fetch origin again again
 test git fetch origin again again again again
+
+test git diff in github
