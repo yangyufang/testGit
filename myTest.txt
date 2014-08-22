@@ -5,3 +5,4 @@ i modified in github.com in mySecBranch again
    
    
    my name is mySecBranch in github
+   i modify in git  in mySecBranch
