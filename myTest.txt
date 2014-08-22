@@ -1,3 +1,3 @@
 ÎÒÔö¼ÓÁËÒ»¸ötestÎÄ¼þ  only commit ,not need to push if want to tongbu  test git status   test git commit -a -m   not push cry   test git status  test commit --amend  again commit --amend
 
-i modified in github.com    i modified in local git   i modified in git in mytest
+i modified in github.com    i modified in local git   i modified in git in mytest          i modified in git in mytest
